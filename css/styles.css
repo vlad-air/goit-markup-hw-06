@@ -741,7 +741,7 @@ ol {
 
 .modal {
   position: absolute;
-  top: 36%;
+  top: 50%;
   left: 50%;
   width: 288px;
   min-height: 623px;
@@ -1070,7 +1070,7 @@ ol {
   .modal {
     width: 408px;
     min-height: 584px;
-    top: 44%;
+    /* top: 44%; */
     padding: 72px 24px 24px;
   }
 }
@@ -1255,7 +1255,7 @@ ol {
     width: 408px;
     padding: 72px 24px 24px;
     min-height: 584px;
-    top: 50%;
+    /* top: 50%; */
   }
 }
 
